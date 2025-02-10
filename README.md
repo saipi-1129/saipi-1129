@@ -6,7 +6,6 @@
     <img src="https://skillicons.dev/icons?i=azure,cloudflare,vercel,heroku,linux,redhat,kali,mysql,vim,docker,postman,py,html,c,flask,bots" />
   </a>
 </p>
-
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saipi-1129&layout=compact&theme=onedark)
 
