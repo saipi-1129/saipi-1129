@@ -1,6 +1,4 @@
 <h2>https://guns.lol/saipi1129</h2>
-<h2>https://link.saipi1129.com/</h2>
-
 <h2>https://uptime.saipi1129.com/status/mentako</h2>
 
 <p align="center">
